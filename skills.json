@@ -1,0 +1,140 @@
+[
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "SpringBoot",
+        "icon": "https://img.icons8.com/?size=48&id=NAq49sHXDSy5&format=png&color=000000"
+    },
+
+    {
+        "name": "Spring ",
+        "icon": "https://img.icons8.com/?size=48&id=90519&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+
+    {
+        "name": "Angular",
+        "icon": "https://img.icons8.com/?size=48&id=71257&format=png&color=000000"
+    },
+    
+    {
+        "name": "REST API",
+        "icon": "https://img.icons8.com/?size=48&id=55497&format=png&color=000000"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png&color=000000"
+    },
+    
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    
+    {
+        "name": "Agile",
+        "icon": "https://img.icons8.com/?size=48&id=TjlqsLh3nSVJ&format=png&color=000000"
+    },
+    
+    {
+        "name": "Logstash",
+        "icon": "https://img.icons8.com/?size=48&id=qMQf0ATt7lqa&format=png&color=000000"
+    },
+    
+    {
+        "name": "Elasticsearch",
+        "icon": "https://img.icons8.com/?size=48&id=aGBLcugRkYpT&format=png&color=000000"
+    },
+    
+    {
+        "name": "Kibana",
+        "icon": "https://img.icons8.com/?size=48&id=z84zCUE5nHfU&format=png&color=000000"
+    },
+    
+    {
+        "name": "Swagger",
+        "icon": "https://img.icons8.com/?size=48&id=rdKV2dee9wxd&format=png&color=000000"
+    },
+    
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/?size=48&id=17842&format=png&color=000000"
+    },
+
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/?size=48&id=QEQQKirln6Tf&format=png&color=000000"
+    },
+
+    {
+        "name": "Maven",
+        "icon": "https://img.icons8.com/?size=48&id=jfjmkTUFX5Vf&format=png&color=000000"
+    },
+    
+    {
+        "name": "ApacheTomcat",
+        "icon": "https://img.icons8.com/?size=48&id=QFcVqyh6lBh6&format=png&color=000000"
+    },
+    {
+        "name": "Eclipse",
+        "icon": "https://img.icons8.com/?size=48&id=rPAHs7H1vriV&format=png&color=000000"
+    },
+
+    
+    {
+        "name": "Azure",
+        "icon": "https://img.icons8.com/?size=48&id=81727&format=png&color=000000"
+    },
+    
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png&color=000000"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }   
+]
