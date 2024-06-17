@@ -317,8 +317,8 @@ $(document).ready(function() {
         origin: "bottom"
       });
   
-    //contact form to excel sheet
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbwDJBDYiPcNiTBVmYAOD8gvLs7fU8_-ALSzQKYihdMtITTHDPTRJIwcuItv03hhMqzf/exec';
+    //contact form to excel sheet 
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbxPFgAECDenPO9TNoZ0JXb4PCU3IiYGtjzwDQJ8buyjAJNFMej3lFWw0DufQUnHQaJS/exec';
     const form = document.forms['submitToGoogleSheet']
     const msg = document.getElementById("msg")
   
